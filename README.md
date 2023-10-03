@@ -8,11 +8,11 @@ README.md content for a project named "Beans & Creame Coffee Shop" This README p
 
 Beans & Creame Coffee Shop
 
-#Overview
+# Overview
 
 Our project aimsn to experience the essence of excellence at our coffee shop, where quality is brewed into every cup. Discover the best of coffee craftsmanship, where every sip is a journey through the world's finest beans and flavors
 
-Features
+# Features
 
 Clearly organized menu categories, such as coffee, tea, pastries, and sandwiches.
 Dedicated section highlighting coffee beans from various countries of origin.
@@ -20,14 +20,14 @@ Provides an intuitive web interface for users to interact with the model.
 Easy-to-use and deployable on local machines or web servers.
 
 
-Getting Started
+# Getting Started
 You just require basic technologies in you computer to run this.
 
 HTML (Hyper Text Markup Language).
 CSS (Cascading Style Sheets).
 JS (JavaScript).
 
-Contributing
+# Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository.
@@ -36,7 +36,8 @@ Make your changes and commit them with descriptive messages.
 Push your changes to your fork.
 Submit a pull request to the main repository.
 
-Hosted Link https://rospcoffeeshop.netlify.app/
+# Hosted Link 
+https://rospcoffeeshop.netlify.app/
 
-Acknowledgments
+# Acknowledgments
 Special thanks to the contributors and open-source community for their support and valuable contributions.
