@@ -2,9 +2,9 @@
 
 We have created this GitHub Repository to Contribute to open source project as a part of our ROSPL Lab 2
 
-What is ROSPL? -> An open-source project is a software project or initiative where the source code for the software is made freely available to the public. In open-source projects, the source code is typically distributed under an open-source license, which grants the public certain rights to use, modify, and distribute the software.
+### What is ROSPL? 
+An open-source project is a software project or initiative where the source code for the software is made freely available to the public. In open-source projects, the source code is typically distributed under an open-source license, which grants the public certain rights to use, modify, and distribute the software.
 
-README.md content for a project named "Beans & Creame Coffee Shop" This README provides an overview of the project, its purpose, and how to use it.
 
 
 
