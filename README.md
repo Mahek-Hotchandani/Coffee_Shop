@@ -6,7 +6,7 @@ What is ROSPL? -> An open-source project is a software project or initiative whe
 
 README.md content for a project named "Beans & Creame Coffee Shop" This README provides an overview of the project, its purpose, and how to use it.
 
-Beans & Creame Coffee Shop
+## Beans & Creame Coffee Shop
 
 # Overview
 
@@ -24,9 +24,9 @@ Our project aimsn to experience the essence of excellence at our coffee shop, wh
 # Getting Started
 You just require basic technologies in you computer to run this.
 
-HTML (Hyper Text Markup Language).
-CSS (Cascading Style Sheets).
-JS (JavaScript).
++ HTML (Hyper Text Markup Language).
++ CSS (Cascading Style Sheets).
++ JS (JavaScript).
 
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
