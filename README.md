@@ -1,4 +1,4 @@
-# Coffee_Shop
+## Beans & Creame Coffee Shop
 
 We have created this GitHub Repository to Contribute to open source project as a part of our ROSPL Lab 2
 
@@ -6,7 +6,7 @@ What is ROSPL? -> An open-source project is a software project or initiative whe
 
 README.md content for a project named "Beans & Creame Coffee Shop" This README provides an overview of the project, its purpose, and how to use it.
 
-## Beans & Creame Coffee Shop
+
 
 # Overview
 
@@ -31,11 +31,11 @@ You just require basic technologies in you computer to run this.
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with descriptive messages.
-Push your changes to your fork.
-Submit a pull request to the main repository.
++ Fork the repository.
++ Create a new branch for your feature or bug fix.
++ Make your changes and commit them with descriptive messages.
++ Push your changes to your fork.
++ Submit a pull request to the main repository.
 
 # Hosted Link 
 https://rospcoffeeshop.netlify.app/
