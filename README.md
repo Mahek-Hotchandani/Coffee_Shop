@@ -10,7 +10,7 @@ An open-source project is a software project or initiative where the source code
 
 # Overview
 
-Our project aimsn to experience the essence of excellence at our coffee shop, where quality is brewed into every cup. Discover the best of coffee craftsmanship, where every sip is a journey through the world's finest beans and flavors
+Our project aims to experience the essence of excellence at our coffee shop, where quality is brewed into every cup. Discover the best of coffee craftsmanship, where every sip is a journey through the world's finest beans and flavors
 
 
 # Features
