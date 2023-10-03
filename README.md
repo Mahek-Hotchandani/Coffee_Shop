@@ -12,7 +12,7 @@ Beans & Creame Coffee Shop
 
 Our project aimsn to experience the essence of excellence at our coffee shop, where quality is brewed into every cup. Discover the best of coffee craftsmanship, where every sip is a journey through the world's finest beans and flavors
 
-## Lists 
+
 # Features
 
 + Clearly organized menu categories, such as coffee, tea, pastries, and sandwiches.
