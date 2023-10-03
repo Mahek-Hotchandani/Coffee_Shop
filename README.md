@@ -12,12 +12,13 @@ Beans & Creame Coffee Shop
 
 Our project aimsn to experience the essence of excellence at our coffee shop, where quality is brewed into every cup. Discover the best of coffee craftsmanship, where every sip is a journey through the world's finest beans and flavors
 
+## Lists 
 # Features
 
-Clearly organized menu categories, such as coffee, tea, pastries, and sandwiches.
-Dedicated section highlighting coffee beans from various countries of origin.
-Provides an intuitive web interface for users to interact with the model.
-Easy-to-use and deployable on local machines or web servers.
++ Clearly organized menu categories, such as coffee, tea, pastries, and sandwiches.
++ Dedicated section highlighting coffee beans from various countries of origin.
++ Provides an intuitive web interface for users to interact with the model.
++ Easy-to-use and deployable on local machines or web servers.
 
 
 # Getting Started
